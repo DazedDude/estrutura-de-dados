@@ -1,0 +1,18 @@
+Ana beatriz Fonseca
+Gustavo Leite
+Gabriela Lacerda
+Ana Beatriz Morbeck
+Gabriel Souza
+
+10->20->30->50->70->90->100
+
+H=10, no=40
+atual= 50->70->90->100
+anterior= 10->20->30->40->50->70->90->100
+
+Tempo de execucao de lista_inserir_no: 0.083000 segundos
+
+Tempo de execucao de lista_inserir_no: 1.025000 segundos
+Tempo de execucao de lista_inserir_no_ordenado: 78848.992000 segundos
+21 horas, 54 minutos e 8 segundos
+
